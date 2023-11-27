@@ -4,11 +4,11 @@
     "name": "Chhole Bhature",
     "rname": "Shipra Mall",
     "imgdata": "https://b.zmtcdn.com/data/pictures/4/19467834/96c1901aaf34b66e7e091fa7bf087fac_o2_featured_v2.jpg",
-    "address": "Gaziabad",
-    "somedata": "1175+ order placed from here recently",
+    "address": "Noida",
+    "somedata": "117+ order placed from here recently",
     "price": 250,
     "rating": "4.0",
-    "overviwe": "Excellent food. Menu is extensive and seasonal to a particularly high standard. Definitely fine dining. It can be expensive but worth it and they do different deals on different nights so it’s worth checking them out before you book. Highly recommended.",
+    "overview": "Excellent food. Menu is extensive and seasonal to a particularly high standard. Definitely fine dining. Highly recommended.",
     "qnty": 0
   },
   {
@@ -17,10 +17,10 @@
     "rname": "Shakes and Juices",
     "imgdata": "https://b.zmtcdn.com/data/pictures/5/19623245/b2d126802e47110bb20d6d31f3097a3c_o2_featured_v2.jpg",
     "address": "Noida",
-    "somedata": "2525 + order placed from here recently",
+    "somedata": "2025 + order placed from here recently",
     "price": 140,
     "rating": "3.9",
-    "overviwe": "Excellent food. Menu is extensive and seasonal to a particularly high standard. Definitely fine dining. It can be expensive but worth it and they do different deals on different nights so it’s worth checking them out before you book. Highly recommended.",
+    "overviwe": "Definitely fine dining. It can be expensive but worth it and they do different deals on different nights so it’s worth checking them out before you book. Highly recommended.",
     "qnty": 0
   },
   {
@@ -29,10 +29,10 @@
     "rname": "Chatkara Stall",
     "imgdata": "https://b.zmtcdn.com/data/pictures/7/20547417/74c6ac4e507851886c193fb7a67a4ac4_o2_featured_v2.jpg",
     "address": "Noida",
-    "somedata": "650 + order placed from here recently",
+    "somedata": "1250 + order placed from here recently",
     "price": 100,
     "rating": "4.2",
-    "overviwe": "Excellent food. Menu is extensive and seasonal to a particularly high standard. Definitely fine dining. It can be expensive but worth it and they do different deals on different nights so it’s worth checking them out before you book. Highly recommended.",
+    "overveiw": "Excellent food. Menu is extensive and seasonal to a particularly high standard. Definitely fine dining. It can be expensive but worth it and they do different deals on different nights so it’s worth checking them out before you book. Highly recommended.",
     "qnty": 0
   },
   {
@@ -41,10 +41,10 @@
     "rname": "Momoman",
     "imgdata": "https://b.zmtcdn.com/data/pictures/chains/1/113401/59f29399060caefcc575d59dc9402ce8_o2_featured_v2.jpg",
     "address": "Noida",
-    "somedata": " 300 + order placed from here recently",
+    "somedata": " 400 + order placed from here recently",
     "price": 70,
     "rating": "3.8",
-    "overviwe": "Excellent food. Menu is extensive and seasonal to a particularly high standard. Definitely fine dining. It can be expensive but worth it and they do different deals on different nights so it’s worth checking them out before you book. Highly recommended.",
+    "overview": " Highly recommended.",
     "qnty": 0
   },
   {
@@ -56,7 +56,7 @@
     "somedata": "1050 + order placed from here recently",
     "price": 110,
     "rating": "4.0",
-    "overviwe": "Excellent food. Menu is extensive and seasonal to a particularly high standard. Definitely fine dining. It can be expensive but worth it and they do different deals on different nights so it’s worth checking them out before you book. Highly recommended.",
+    "overview": "Excellent food. Menu is extensive and seasonal to a particularly high standard. Definitely fine dining. It can be expensive but worth it and they do different deals on different nights so it’s worth checking them out before you book. Highly recommended.",
     "qnty": 0
   },
   {
@@ -65,10 +65,10 @@
     "rname": "Chinese Restaurant",
     "imgdata": "https://b.zmtcdn.com/data/pictures/2/19553942/209e38e0240e8b768ab09fb72e715c78_o2_featured_v2.jpg",
     "address": "Noida",
-    "somedata": " 1100 + order placed from here recently",
+    "somedata": " 1000 + order placed from here recently",
     "price": 100,
-    "rating": "3.8",
-    "overviwe": "Excellent food. Menu is extensive and seasonal to a particularly high standard. Definitely fine dining. It can be expensive but worth it and they do different deals on different nights so it’s worth checking them out before you book. Highly recommended.",
+    "rating": "4.1",
+    "overview": " Foos is good and tasty. Definitely fine dining. Highly recommended.",
     "qnty": 0
   },
   {
@@ -80,7 +80,7 @@
     "somedata": "500 + order placed from here recently",
     "price": 300,
     "rating": "4.6",
-    "overviwe": "Excellent food. Menu is extensive and seasonal to a particularly high standard. Definitely fine dining. It can be expensive but worth it and they do different deals on different nights so it’s worth checking them out before you book. Highly recommended.",
+    "overview": "Excellent food. Menu is extensive and seasonal to a particularly high standard. Definitely fine dining. It can be expensive but worth it and they do different deals on different nights so it’s worth checking them out before you book. Highly recommended.",
     "qnty": 0
   },
   {
@@ -92,7 +92,7 @@
     "somedata": "500 + order placed from here recently",
     "price": 100,
     "rating": "3.2",
-    "overviwe": " Excellent food. Menu is extensive and seasonal to a particularly high standard. Definitely fine dining. It can be expensive but worth it and they do different deals on different nights so it’s worth checking them out before you book. Highly recommended.",
+    "overview": " Excellent food. Menu is extensive and seasonal to a particularly high standard. Definitely fine dining. It can be expensive but worth it and they do different deals on different nights so it’s worth checking them out before you book. Highly recommended.",
     "qnty": 0
   },
   {
@@ -104,7 +104,7 @@
     "somedata": "2525 + order placed from here recently",
     "price": 100,
     "rating": "4.8",
-    "overviwe": "Excellent food. Menu is extensive and seasonal to a particularly high standard. Definitely fine dining. It can be expensive but worth it and they do different deals on different nights so it’s worth checking them out before you book. Highly recommended.",
+    "overview": "Excellent food. Menu is extensive and seasonal to a particularly high standard. Definitely fine dining. It can be expensive but worth it and they do different deals on different nights so it’s worth checking them out before you book. Highly recommended.",
     "qnty": 0
   },
   {
@@ -116,7 +116,7 @@
     "somedata": "525 + order placed from here recently",
     "price": 240,
     "rating": "3",
-    "overviwe": "Excellent food. Menu is extensive and seasonal to a particularly high standard. Definitely fine dining. It can be expensive but worth it and they do different deals on different nights so it’s worth checking them out before you book. Highly recommended.",
+    "overview": "Excellent food. Menu is extensive and seasonal to a particularly high standard. Definitely fine dining. It can be expensive but worth it and they do different deals on different nights so it’s worth checking them out before you book. Highly recommended.",
     "qnty": 0
   },
   {
@@ -128,7 +128,7 @@
     "somedata": "525 + order placed from here recently",
     "price": 160,
     "rating": "3.8",
-    "overviwe": "Excellent food. Menu is extensive and seasonal to a particularly high standard. Definitely fine dining. It can be expensive but worth it and they do different deals on different nights so it’s worth checking them out before you book. Highly recommended.",
+    "overview": "Excellent food. Menu is extensive and seasonal to a particularly high standard. Definitely fine dining. It can be expensive but worth it and they do different deals on different nights so it’s worth checking them out before you book. Highly recommended.",
     "qnty": 0
   },
   {
@@ -140,7 +140,7 @@
     "somedata": "525 + order placed from here recently",
     "price": 160,
     "rating": "3.8",
-    "overviwe": "Excellent food. Menu is extensive and seasonal to a particularly high standard. Definitely fine dining. It can be expensive but worth it and they do different deals on different nights so it’s worth checking them out before you book. Highly recommended.",
+    "overview": "Excellent food. Menu is extensive and seasonal to a particularly high standard. Definitely fine dining. It can be expensive but worth it and they do different deals on different nights so it’s worth checking them out before you book. Highly recommended.",
     "qnty": 0
   },
   {
@@ -152,7 +152,7 @@
     "somedata": "525 + order placed from here recently",
     "price": 160,
     "rating": "3.8",
-    "overviwe": "Excellent food. Menu is extensive and seasonal to a particularly high standard. Definitely fine dining. It can be expensive but worth it and they do different deals on different nights so it’s worth checking them out before you book. Highly recommended.",
+    "overview": "Excellent food. Menu is extensive and seasonal to a particularly high standard. Definitely fine dining. It can be expensive but worth it and they do different deals on different nights so it’s worth checking them out before you book. Highly recommended.",
     "qnty": 0
   },
   {
@@ -164,7 +164,7 @@
     "somedata": "525 + order placed from here recently",
     "price": 160,
     "rating": "3.8",
-    "overviwe": "Excellent food. Menu is extensive and seasonal to a particularly high standard. Definitely fine dining. It can be expensive but worth it and they do different deals on different nights so it’s worth checking them out before you book. Highly recommended.",
+    "overview": "Excellent food. Menu is extensive and seasonal to a particularly high standard. Definitely fine dining. It can be expensive but worth it and they do different deals on different nights so it’s worth checking them out before you book. Highly recommended.",
     "qnty": 0
   },
   {
@@ -176,7 +176,7 @@
     "somedata": "525 + order placed from here recently",
     "price": 160,
     "rating": "3.8",
-    "overviwe": "Excellent food. Menu is extensive and seasonal to a particularly high standard. Definitely fine dining. It can be expensive but worth it and they do different deals on different nights so it’s worth checking them out before you book. Highly recommended.",
+    "overview": "Excellent food. Menu is extensive and seasonal to a particularly high standard. Definitely fine dining. It can be expensive but worth it and they do different deals on different nights so it’s worth checking them out before you book. Highly recommended.",
     "qnty": 0
   }
 ]
